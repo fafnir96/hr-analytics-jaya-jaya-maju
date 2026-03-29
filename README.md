@@ -74,6 +74,4 @@ Berikut beberapa rekomendasi action items yang dapat dilakukan perusahaan guna m
 - **Mengurangi beban overtime karyawan** — Evaluasi dan redistribusi beban kerja secara merata. Pertimbangkan penambahan tenaga kerja di divisi yang kekurangan sumber daya, terutama di departemen Sales.
 - **Meningkatkan kepuasan kerja melalui program engagement** — Lakukan survei kepuasan karyawan secara berkala, sediakan jalur pengembangan karier yang jelas, dan tingkatkan komunikasi antara manajer dan tim.
 - **Meninjau kembali kompensasi karyawan dengan gaji rendah** — Lakukan benchmarking gaji terhadap standar industri dan prioritaskan penyesuaian untuk karyawan dengan performa baik namun bergaji di bawah rata-rata.
-- # **Memperkuat program onboarding untuk karyawan baru** — Karyawan dengan masa kerja 0–5 tahun paling rentan keluar. Program mentoring dan check-in rutin di tahun pertama dapat meningkatkan retensi secara signifikan.
-
-# hr-analytics-jaya-jaya-maju
+- **Memperkuat program onboarding untuk karyawan baru** — Karyawan dengan masa kerja 0–5 tahun paling rentan keluar. Program mentoring dan check-in rutin di tahun pertama dapat meningkatkan retensi secara signifikan.
