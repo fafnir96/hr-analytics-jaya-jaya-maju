@@ -41,6 +41,7 @@ jupyter notebook notebook.ipynb
 
 Dashboard dibuat menggunakan **Looker Studio** dan dapat diakses melalui link berikut:
 
+🔗 **Link Dataset:** https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 🔗 **Link Dashboard:** https://lookerstudio.google.com/reporting/1932d1b7-f616-4fbd-bb67-701246b6f424
 
 Dashboard ini menampilkan:
